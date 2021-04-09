@@ -5,9 +5,11 @@
  ![Ronan Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
  <br/>
-[![Liguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Repositorios](https://github-readme-stats.vercel.app/api/show_owner/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   <h2>:heavy_check_mark: Redes Sociais</h2>
