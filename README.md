@@ -2,9 +2,11 @@
  --------------------------
  <br/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+ ![Ronan Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
  <br/>
+  ![Ronan Felipe GitHub stats](https://github-readme-stats.vercel.app/api?show_owner&theme=dark&show_icons=true)
+  <br/>
 
 <p align="center"> 
   <h2>:heavy_check_mark: Redes Sociais</h2>
