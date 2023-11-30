@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ronanfmesquita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronanfmesquita" height="30" width="40" /></a>
-</p>
 <a href="https://hub.docker.com/u/ronanfmesquita" target="blank"><img align="center" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png" alt="ronanfmesquita" height="30" width="40" /></a>
 </p>
 
